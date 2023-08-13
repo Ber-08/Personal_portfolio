@@ -31,7 +31,11 @@ export default function About() {
               intuitive and dynamic web applications that make a positive impact on users' lives. My goal is to work in
               a collaborative and dynamic environment that fosters growth and encourages innovation.
             </p>
-            <a href="https://www.linkedin.com/in/beryl-tryphena-a9a42b190/" className="hire-btn">
+            <a
+              href="https://www.linkedin.com/in/beryl-tryphena-a9a42b190/"
+              target="_blank"
+              rel="noreferrer"
+              className="hire-btn">
               Hire me
             </a>
           </div>

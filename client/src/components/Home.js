@@ -16,10 +16,10 @@ export default function Home() {
           <h1>BERYL TRYPHENA</h1>
           <p>I am a Full Stack Developer adept in working in both front-end and back-end development processes. </p>
           <div className="socialmedia">
-            <a href="https://www.linkedin.com/in/beryl-tryphena-a9a42b190/">
+            <a href="https://www.linkedin.com/in/beryl-tryphena-a9a42b190/" target="_blank" rel="noreferrer">
               <i class="fa-brands fa-linkedin"></i>
             </a>
-            <a href="https://github.com/Ber-08/Personal_portfolio.git">
+            <a href="https://github.com/Ber-08/Personal_portfolio.git" target="_blank" rel="noreferrer">
               <i class="fa-brands fa-github"></i>
             </a>
           </div>
