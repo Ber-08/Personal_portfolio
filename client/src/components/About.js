@@ -6,7 +6,7 @@ export default function About() {
           <h3>About me</h3>
         </div>
         <div className="about-container">
-          <img src="img/home.png" alt="about-img" />
+          <img src="img/home.jpg" alt="about-img" />
 
           <div className="about-content">
             <div className="about-box">
