@@ -213,7 +213,7 @@ li {
   width: 60%;
   height: 60%;
   -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
   animation-delay: 2s;
   animation: 2s ease-in-out infinite;
   border-radius: 50%;
@@ -797,4 +797,4 @@ li {
   #contact .form-container .input_container textarea {
     width: 100% !important;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */

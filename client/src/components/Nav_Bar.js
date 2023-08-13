@@ -7,7 +7,6 @@ export default function Nav_Bar({ handleToggle, dark }) {
     window.scrollY >= 100 ? setFix(true) : setFix(false);
   }
   window.addEventListener("scroll", setFixed);
-
   return (
     <div>
       <nav id="navbar" className={fix ? "navbar active" : "navbar"}>
