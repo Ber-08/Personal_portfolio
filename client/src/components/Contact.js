@@ -15,15 +15,15 @@ export default function Contact() {
                 <i class="fa-solid fa-envelope"></i>
                 <h3>Email</h3>
                 <p>bezytryphena@gmail.com</p>
-                <a href="#2">
+                <a href="mailto:bezytryphena@gmail.com">
                   Write me <i class="fa-solid fa-arrow-right "></i>
                 </a>
               </div>
               <div className="box">
-                <i class="fa-brands fa-whatsapp"></i>
-                <h3>Whatsapp</h3>
-                <p>8526819192</p>
-                <a href="#2">
+                <i class="fa-brands fa-linkedin"></i>
+                <h3>Linkedin</h3>
+                <p>Beryl Tryphena</p>
+                <a href="https://www.linkedin.com/in/beryl-tryphena-a9a42b190/" target="_blank" rel="noreferrer">
                   Write me <i class="fa-solid fa-arrow-right"></i>
                 </a>
               </div>
@@ -31,25 +31,13 @@ export default function Contact() {
                 <i class="fa-solid fa-location-dot"></i>
                 <h3>Address</h3>
                 <p>Coimbatore</p>
-                <a href="#2">
-                  Write me <i class="fa-solid fa-arrow-right"></i>
-                </a>
+                <a href="#2">{/* Write me <i class="fa-solid fa-arrow-right"></i> */}</a>
               </div>
             </div>
 
             <form className="form-container">
-              <InputFields
-                name="Name"
-                className="input_container"
-                type="text"
-                placholder="Enter name"
-              />
-              <InputFields
-                name="E-mail"
-                className="input_container"
-                type="email"
-                placholder="Enter email"
-              />
+              <InputFields name="Name" className="input_container" type="text" placholder="Enter name" />
+              <InputFields name="E-mail" className="input_container" type="email" placholder="Enter email" />
               <InputFields
                 name="comments"
                 className="input_container"
