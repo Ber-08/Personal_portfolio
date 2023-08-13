@@ -28,7 +28,7 @@ export default function Home() {
           </a>
         </div>
         <div className="home-image">
-          <img src="img/home.png" alt="home-img" />
+          <img src="img/home.jpg" alt="home-img" />
         </div>
       </section>
     </div>
