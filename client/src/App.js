@@ -13,7 +13,7 @@ export default function App() {
   }
   return (
     <div id={dark ? "theme-dark" : "theme"}>
-      <NavBar handleToggle={handleToggle} />
+      <NavBar handleToggle={handleToggle} dark={dark} />
       <Home />
       <About />
       <Project />

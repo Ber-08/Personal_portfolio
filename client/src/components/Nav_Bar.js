@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function Nav_Bar({ handleToggle }) {
+export default function Nav_Bar({ handleToggle, dark }) {
   const [fix, setFix] = useState(false);
 
   function setFixed() {
@@ -29,7 +29,7 @@ export default function Nav_Bar({ handleToggle }) {
               <a href="#contact">Contact</a>
             </li>
             <li onClick={handleToggle}>
-              <i class="fa-solid fa-moon fa-fade"></i>
+              {dark ? <i class="fa-solid fa-sun fa-fade"></i> : <i class="fa-solid fa-moon fa-fade"></i>}
             </li>
           </ul>
         </div>
