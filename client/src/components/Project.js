@@ -11,7 +11,7 @@ export default function Project() {
             <div className="box">
               <img src="img/ecom.jpg" alt="img" />
               <div className="layer">
-                <h3>E-Commerece</h3>
+                <h3>E-Commerce</h3>
                 <a href="https://phlox.pages.dev/">
                   Demo <i class="fa-solid fa-arrow-right"></i>
                 </a>
