@@ -9,7 +9,7 @@ export default function Project() {
           </div>
           <div className="project-content">
             <div className="box">
-              <img src="img/webDesign.png" alt="img" />
+              <img src="img/ecom.jpg" alt="img" />
               <div className="layer">
                 <h3>E-Commerece</h3>
                 <a href="https://phlox.pages.dev/">
