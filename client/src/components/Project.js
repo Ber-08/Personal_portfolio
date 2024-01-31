@@ -11,8 +11,8 @@ export default function Project() {
             <div className="box">
               <img src="img/webDesign.png" alt="img" />
               <div className="layer">
-                <h3>User authentication</h3>
-                <a href="2">
+                <h3>E-Commerece</h3>
+                <a href="https://phlox.pages.dev/">
                   Demo <i class="fa-solid fa-arrow-right"></i>
                 </a>
               </div>
@@ -20,7 +20,7 @@ export default function Project() {
             <div className="box">
               <img src="img/travelApp.jpg" alt="img" />
               <div className="layer">
-                <h3>Travel App</h3>
+                <h3>Blog-App</h3>
                 <a href="2">
                   Demo <i class="fa-solid fa-arrow-right"></i>
                 </a>
