@@ -18,7 +18,7 @@ export default function Project() {
               </div>
             </div>
             <div className="box">
-              <img src="img/blogpost.jpg" alt="img" />
+              <img src="img/blog-post.jpg" alt="img" />
               <div className="layer">
                 <h3>Blog-App</h3>
                 <a href="2">
